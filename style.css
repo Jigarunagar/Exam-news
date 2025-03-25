@@ -56,11 +56,11 @@ select {
 
 input[type="submit"],
 button {
-    background-color: #007bff;
+    background-color: #002855;
     color: white;
 }
 
 input[type="submit"]:hover,
 button:hover {
-    background-color: #0056b3;
+    background-color: #002855;
 }
